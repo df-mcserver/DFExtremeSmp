@@ -3,7 +3,7 @@ An experimental and incomplete [PaperMC](https://papermc.io/) plugin (1.21.3), f
 
 > [!WARNING]
 > NOT INTENDED FOR PERSONAL USE  
-> This plugin is no-where near completion, it is a simple fork of DFSmpPlus from earlier in development.  
+> This plugin is no-where near completion, it is a simple fork of [DFSmpPlus](https://github.com/df-mcserver/DFSmpPlus) from earlier in development.  
 > Do not expect anything from this plugin, it is merely a proof-of-concept for an idea I had.
 
 ## Dependencies
