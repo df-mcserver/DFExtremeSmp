@@ -1,8 +1,0 @@
-name: DFExtremeSmp
-version: '1.0.0'
-main: uk.co.nikodem.dfesmp.DFExtremeSmp
-api-version: '1.21.3'
-commands:
-  givedf:
-    description: "Gives DFMaterial."
-    usage: /givedf {item}
